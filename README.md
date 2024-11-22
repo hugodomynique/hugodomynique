@@ -9,8 +9,8 @@ My name is Hugo Domynique Nunes, I'm a Full Stack .NET Developer | SQL Server DB
 
 <br />
 <div align="center">
-<img width="49%" height="190px" src="https://github-readme-stats.vercel.app/api?username=domynique&theme=transparent&hide_border=true&show_icons=true" />  
-<img width="50%" height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=domynique&theme=transparent&show_icons=true&hide_border=true&layout=compact" />
+<img width="49%" height="190px" src="https://github-readme-stats.vercel.app/api?username=hugodomynique&theme=transparent&hide_border=true&show_icons=true" />  
+<img width="50%" height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hugodomynique&theme=transparent&show_icons=true&hide_border=true&layout=compact" />
 </div>
 
 <br />
